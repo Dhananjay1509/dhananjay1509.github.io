@@ -1,0 +1,43 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+  }
+  h1, h2, h3 {
+    text-align: center;
+    color: #1a1a1a;
+  }
+  p, li {
+    max-width: 900px;
+    margin: auto;
+  }
+  .center {
+    text-align: center;
+    margin: 20px 0;
+  }
+  .badges img {
+    margin: 6px;
+  }
+  table {
+    margin: 20px auto;
+    width: 90%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  hr {
+    margin: 40px 0;
+    border: 0;
+    height: 1px;
+    background-color: #eee;
+  }
+  
